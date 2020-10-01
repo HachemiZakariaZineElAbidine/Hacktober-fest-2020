@@ -4,3 +4,4 @@
 #### [Mohammed Benotmane](https://github.com/Mohammed-Benotmane)
 #### [Doha Helmaoui](https://github.com/Doha-Helmaoui)
 #### [Oussama Bouchikhi](https://github.com/oussamabouchikhi)
+#### [Hachemi Zakaria](https://github.com/HachemiZakariaZineElAbidine)
